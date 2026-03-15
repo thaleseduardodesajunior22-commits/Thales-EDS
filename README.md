@@ -1,4 +1,4 @@
-# Thales EDS
+# Sobre Mim
 
 Olá Github, espero que estejam bem, eu sou o Thales: Um estudante do Ensino Médio com foco em TI e estudo desenvolvimento de sistemas, Amo jogos mas as vezes passo um tempo assistindo filmes, séries ou desenhos
 
