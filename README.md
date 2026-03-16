@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Olá Github, espero que estejam bem, eu sou o Thales: Um estudante do Ensino Médio com foco no TI, Desenvolvimento de sistemas e Inglês, Aprendiz no Senac Amo jogos mas as vezes passo um tempo assistindo filmes, séries ou desenhos
+Olá Github, espero que estejam bem, eu sou o Thales: Um estudante do Ensino Médio com foco no TI, Desenvolvimento de sistemas e Inglês, Aprendiz no Senac, Amo jogos mas as vezes passo um tempo assistindo filmes, séries ou desenhos
 
 Meu plano é melhorar na área da tecnologia e portanto criei uma conta aqui
 
